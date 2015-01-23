@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>space.svg</file>
+        <file>wall.svg</file>
+        <file>apple.svg</file>
+        <file>head.svg</file>
+        <file>straight.svg</file>
+        <file>tail.svg</file>
+        <file>toLeft.svg</file>
+        <file>toRight.svg</file>
+        <file>dead.svg</file>
+    </qresource>
+</RCC>
