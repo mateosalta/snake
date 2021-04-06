@@ -1,4 +1,4 @@
-#include "Head.h"
+#include "head.h"
 
 static const QString PATTERN_PIXMAP("head");
 
